@@ -1,2 +1,3 @@
 # TOT_FactionManagement
- Faction microservice
+ Faction microservice for retrieving factions
+written in c#
