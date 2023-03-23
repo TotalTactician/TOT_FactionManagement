@@ -1,0 +1,24 @@
+{
+  "factions": [
+    {
+      "name": "The Bloody Handz",
+      "Icon": "",
+      "desc" :  ""
+    },
+    {
+      "name": "Broken Axe",
+      "Icon": "",
+      "desc": ""
+    },
+    {
+      "name": "Clan Skryre",
+      "Icon": "",
+      "desc": ""
+    },
+    {
+      "name": "Clan Mors",
+      "Icon": "",
+      "desc": ""
+    }
+  ]
+}

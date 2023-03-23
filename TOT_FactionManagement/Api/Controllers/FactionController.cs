@@ -14,14 +14,10 @@ namespace Api.Controllers
             _logger = logger;
         }
 
-        [HttpGet(Name = "GetFactions")]
+        [HttpGet(Name = "GetFaction")]
         public IEnumerable<Faction> Get()
         {
             List<Faction> factionList = new List<Faction>();
-
-            factionList.Add(new(1, "a"));
-            factionList.Add(new(2, "b"));
-            factionList.Add(new(3, "c"));
 
             return factionList;
         }
